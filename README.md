@@ -21,19 +21,9 @@ I'm a full stack developer currently residing in Bogura, Bangladesh.
 
 **[Goodwork](https://github.com/iluminar/goodwork)** - self hosted project management & collaboration tool built with Laravel.
 
-<br/>
-
 ### Working on 🔭
 
 **[Zukoni](https://zukoni.com)** - A html elements gallery built with TailwindCSS. Contact me for beta access.
-
-<br/>
-
-### Ask me about 💬
-
-PHP, Laravel, Tailwind, Docker etc.
-
-<br/>
 
 ### Reach me at 📫
 
