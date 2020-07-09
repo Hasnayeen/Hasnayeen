@@ -5,24 +5,36 @@
 [![twitter badge](https://img.shields.io/badge/twitter-@hasnayeen-orange?style=for-the-badge&logo=twitter)](https://twitter.com/nhasnayeen)
 [![dev.to badge](https://img.shields.io/badge/dev.to-hasnayeen-black?style=for-the-badge&logo=dev.to)](https://dev.to/hasnayeen)
 
+<br/>
+
 > "Everything has a trade-off" - Hasnayeen
 
-### Hi 👋, I'm Nehal Hasnayeen
+<br/>
+
+## Hi 👋, I'm Nehal Hasnayeen
 
 I'm a full stack developer currently residing in Bogura, Bangladesh.
 
-🛠 created:
+<br/>
 
-*Goodwork* - self hosted project management & collaboration tool built with Laravel. [Goodwork](https://github.com/iluminar/goodwork)
+### Created 🛠
 
-🔭 working on:
+**Goodwork** - self hosted project management & collaboration tool built with Laravel. [Goodwork](https://github.com/iluminar/goodwork)
 
-*Zukoni* html elements gallery built with TailwindCSS. [Website](https://zukoni.com)
+<br/>
 
-💬 Ask me about:
+### Working on 🔭
+
+**Zukoni** - A html elements gallery built with TailwindCSS. Contact me for beta access. [Website](https://zukoni.com)
+
+<br/>
+
+### Ask me about 💬
 
 PHP, Laravel, Tailwind, Docker etc.
 
-📫 Reach me at:
+<br/>
+
+### Reach me at 📫
 
 Best way to reach me is at my email hasnayeen@pm.me
