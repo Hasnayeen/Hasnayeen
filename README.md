@@ -27,4 +27,4 @@ I'm a full stack developer currently residing in Bogura, Bangladesh.
 
 ### Reach me at 📫
 
-Best way to reach me is at my email hasnayeen@pm.me
+Best way to reach me is at my email searching.nehal@gmail.com
