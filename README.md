@@ -1,19 +1,16 @@
-
-![Nehal Hasnayeen Profile Banner](https://raw.githubusercontent.com/Hasnayeen/Hasnayeen/master/images/profile-banner.png) 
-
 [![website badge](https://img.shields.io/badge/website-hasnayeen.dev-green?style=for-the-badge)](https://hasnayeen.dev)
 [![twitter badge](https://img.shields.io/badge/twitter-@hasnayeen-orange?style=for-the-badge&logo=twitter)](https://twitter.com/nhasnayeen)
 [![dev.to badge](https://img.shields.io/badge/dev.to-hasnayeen-black?style=for-the-badge&logo=dev.to)](https://dev.to/hasnayeen)
 
 <br/>
 
-> "Everything has a trade-off" - Hasnayeen
+> " Everything has a trade-off "
 
 <br/>
 
 ## Hi 👋, I'm Nehal Hasnayeen
 
-I'm a full stack developer currently residing in Bogura, Bangladesh.
+Full stack developer working on TALL stack.
 
 <br/>
 
