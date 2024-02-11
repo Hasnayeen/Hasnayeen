@@ -14,7 +14,6 @@ Full stack developer working on TALL stack & Filament.
 
 <br/>
 -->
-<br/>
 
 <!-- GitHub Stats -->
 <div>
@@ -22,8 +21,6 @@ Full stack developer working on TALL stack & Filament.
     <img  height=260 src="https://github-readme-stats.vercel.app/api?username=hasnayeen&rank_icon=percentile&bg_color=0000&text_color=6aa&title_color=f88469&icon_color=af185b&show_icons=true&border_color=666&border_radius=4" />
   </a>
 </div>
-
-<br/>
 
 <br/>
 
