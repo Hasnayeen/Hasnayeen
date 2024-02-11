@@ -5,6 +5,7 @@ Full stack developer working on TALL stack & Filament.
 <br/>
 
 <!-- GitHub Streak -->
+<!--
 <div>
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
     <img height=240 src="https://github-readme-streak-stats.herokuapp.com/?user=hasnayeen&background=0000&border=666&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
@@ -12,7 +13,7 @@ Full stack developer working on TALL stack & Filament.
 </div>
 
 <br/>
-
+-->
 <br/>
 
 <!-- GitHub Stats -->
