@@ -4,6 +4,10 @@ Working on an admin panel builder for RILT stack (React, Inertia, Laravel, Tailw
 
 <br/>
 
+<a href="https://trendshift.io/developers/3284" target="_blank"><img src="https://trendshift.io/api/badge/developers/3284" alt="Hasnayeen | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+<br/>
+
 <!-- GitHub Streak -->
 <!--
 <div>
