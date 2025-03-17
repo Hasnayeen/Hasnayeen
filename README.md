@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nehal Hasnayeen
 
-Working on an admin panel builder for RILT stack (React, Inertia, Laravel, Tailwind). Available here -> https://github.com/Hasnayeen/xumina
+Building open source stuff.
 
 <br/>
 
