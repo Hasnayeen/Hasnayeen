@@ -19,16 +19,6 @@ Building open source stuff.
 <br/>
 -->
 
-<!-- GitHub Stats -->
-<div>
-  <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img  height=260 src="https://github-readme-stats.vercel.app/api?username=hasnayeen&rank_icon=percentile&bg_color=0000&text_color=6aa&title_color=f88469&icon_color=af185b&show_icons=true&border_color=666&border_radius=4" />
-  </a>
-</div>
-
-<br/>
-
-[![](https://img.shields.io/badge/nhasnayeen-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)](https://twitter.com/nhasnayeen)
 [![](https://img.shields.io/badge/Hasnayeen-informational?style=flat&logo=discord&logoColor=white)](discordapp.com/users/297318343642447872)
 
 ## For Hire
